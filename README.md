@@ -6,7 +6,7 @@ Welcome to my Data Analysis Projects portfolio! This repository contains a colle
 
 Here's a list of the projects available in this repository:
 
-1. [SalesDashboard_Using_Excel](https://github.com/mcgregorvk/Data_Analysis_Projects/tree/SalesDashboard_Using_Excel): SalesDashboard_Using_Excel: It analyzes sales data to provide insights on various aspects of the business and represent it using dashboard.
+1. [SalesDashboard_Using_Excel](https://github.com/mcgregorvk/Data_Analysis_Projects/tree/SalesDashboard_Using_Excel): It analyzes sales data to provide insights on various aspects of the business and represent it using dashboard.
 2. [Music_Store_Analysis_PSQL](https://github.com/mcgregorvk/Data_Analysis_Projects/tree/Music_Store_Analysis_PSQL): This SQL project explores the dataset of an online music store. By working with the music playlist database, I extract meaningful insights to understand the store's business growth through data-driven decision-making
 3. [Hotel_Booking](https://github.com/mcgregorvk/Data_Analysis_Projects/tree/Hotel_Booking): This project focuses on analyzing hotel booking cancellations and providing insights and recommendations to address the issue of high cancellation rates in City Hotel and Resort Hotel using pandas, matplotlib and seaborn libraries. The goal is to increase revenue generation efficiency and offer valuable business advice to tackle this problem.
    .
